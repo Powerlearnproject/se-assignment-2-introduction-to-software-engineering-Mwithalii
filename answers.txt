@@ -1,0 +1,109 @@
+Assignment: Introduction to Software Engineering Instructions: 
+Answer the following questions based on your understanding of software engineering concepts. 
+Provide detailed explanations and examples where appropriate.
+
+Questions: 
+
+1. Define Software Engineering:
+Software engineering is a branch of Computer Science that deals with the design, development, testing, and maintenance of systems and software applications.
+Thus, a software engineer is an individual that designs, develops (codes), tests, and maintains systems and software applications like mobile apps and web apps.
+
+
+2. What is software engineering, and how does it differ from traditional programming? 
+Software engineering is a branch of Computer Science that deals with the design, development, testing, and maintenance of systems and software applications, while traditional 
+programming is the approach of only writing program codes to instruct a computer on what to do. Moreover, a software engineering encompasses the full aspect of software development, that is,
+design, coding, testing, and maintenance. On the other hand, traditional programming only consists of the coding of the software application.
+SDLC is the entire process (life cycle) taken from the start to the full completion of the development of a software application. It's processes include but not limited to 
+requirement gathering and analysis, logical design, physical design, and implementation (coding).
+
+
+Software Development Life Cycle (SDLC):
+3. Explain the various phases of the Software Development Life Cycle. Provide a brief description of each phase. 
+SDLC has various phases including:
+    1. Requirement gathering and analysis - this phase involves the collection of the software requirements (what the software is required or supposed to do), then analyzing
+                                            the requirements and documenting the accepted ones.
+    2. Logical design - this phase invloves creating the logical design (how the components of the software interact with each other logically) of the software.
+    3. Physical design - this phase invloves creating the actual physical design (how the software looks like) of the software.
+    4. Coding/development - this phase involves the actual coding of the designed software.
+    5. Testing - this phase involves testing the code to debug and ensure quality of the software.
+    6. Deployment - this phase involves releasing the tested software to the consumer for usage.
+    7. Maintenance - this is a continuing phase where the software engineer ensures the continued smooth operation and functioning of the software over time.
+
+Agile SDLC model vs Watertefall SDLC model: Agile is an iterative/repetitive SDLC that revolves around 4 phases, namely: requirement analysis, design, coding, and testing.
+                                            On the other hand, waterfall is a linear/sequential SDLC that is more strict (in that you cannot go back to a previous phase after 
+                                            completing it or move forward to the next without completing the current one) that has more phases. The phases include: requirement
+                                            analysis, system design, coding, testing, deployment, and maintenance.
+
+
+Agile vs. Waterfall Models:
+4. Compare and contrast the Agile and Waterfall models of software development. What are the key differences, and in what scenarios might each be preferred? 
+Agile is an iterative/repetitive SDLC that revolves around 4 phases, namely: requirement analysis, design, coding, and testing. On the other hand, waterfall is a 
+linear/sequential SDLC that is more strict (in that you cannot go back to a previous phase after completing it or move forward to the next without completing the 
+current one) that has more phases. The phases include: requirement analysis, system design, coding, testing, deployment, and maintenance.
+
+Preference: Agile model is preferred in situations where the requirements of the software are not certain or explicitly defined. It is also useful when the consumers are
+highly invloved in the development. On the other hand, waterfall model is preferred in situations where the software requirements are explicitly defined and the constraints 
+are well defined.
+
+
+Requirements Engineering:
+5. What is requirements engineering? Describe the process and its importance in the software development lifecycle. 
+Requirements engineering is the process of gathering software requirments, analyzing them, and verifying them before the software is developed. This process is important
+in ensuring that the requirement specifications of the software applications are explicitly defined and verified, ensuring that the end product meets its consumers' needs
+or that it performs the functions it is meant to.
+
+
+Software Design Principles:
+6. Explain the concept of modularity in software design. How does it improve maintainability and scalability of software systems? 
+Modularity is a software design principle that invlolves the breaking down of a complex software design into smaller manageable parts that are independent of each other. The 
+smaller parts are easier and simpler to maintain and scale as they do not affect other parts of the software.
+
+
+Testing in Software Engineering:
+7. Describe the different levels of software testing (unit testing, integration testing, system testing, acceptance testing). Why is testing crucial in software development? 
+Unit testing - involves testing a single unit of the software separately from the whole system.
+Integration testing - involves testing the functioning of the software when different units are integrated with each other.
+System testing - involves the testing of the whole software after all parts/units are integrated.
+Acceptance testing - involves testing the system to ensure that it meets the requirements it is built for or that it meets its users' needs.
+
+Importance of testing: Testing enables debugging, in case of any bugs, and ensures that the system performs the functions it is built for (or that it meets the users' needs).
+
+
+Version Control Systems:
+8. What are version control systems, and why are they important in software development? Give examples of popular version control systems and their features. 
+Version control systems/ source control systems are software that enable software engineers to manage changes to their source code over a period of time. They are important
+in development as they enable the developer to track their code over a duration and manage any necessary changes.
+
+Examples of version control systems and their features: Git - branching, merging, and distributed Nature
+                                                        Apache Subversion - centralized nature, atomic commits, and access control
+
+
+Software Project Management:
+9. Discuss the role of a software project manager. What are some key responsibilities and challenges faced in managing software projects? 
+A software project manager is an individual who is in charge of forseeing the development of a software throughout its life cycle and maintaining a constant and effective
+communication between the stakeholders and the developers.
+Responsibilitites: Liaising between stakeholders and developers
+                    Project planning
+                    Project monitoring and Control
+Challenges: Uneffective communication
+            Risks Management
+            Unrealistic deadlines
+            Under-budgets
+
+
+Software Maintenance:
+10. Define software maintenance and explain the different types of maintenance activities. Why is maintenance an essential part of the software lifecycle? 
+Software maintenance is the continued process of changing or modifying an existing software to improve its performance or keep it up to date with the ongoing technological
+trends. 
+Activities: Corrective - focus on fixing bugs or defects that the software may have
+            Adaptive - focus on updating the software to adapt to the ongoing technological trends
+            Preventive - focuses on preventing errors or bugs
+Importance: Enhances the software performance
+            Debugging the software
+            Competitive advantage when upgrading the existing software to keep up with the current technological trends
+
+
+Ethical Considerations in Software Engineering:
+11. What are some ethical issues that software engineers might face? How can software engineers ensure they adhere to ethical standards in their work? 
+Ethical issues faced by software engineers include but not limited to: privacy issues, security vulnerabilities, conflict of interest, transparency, and intellectual property.
+They can adhre to standards by:adhering to code of ethics, best security practices, and transparency among others.
